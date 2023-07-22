@@ -1,4 +1,4 @@
-# ExpressAndMongoDB
+# PhpmyadminAndMariaDB
 Docker compose mariadb and phpmyadmin
 
 
